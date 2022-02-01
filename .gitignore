@@ -1,0 +1,5 @@
+/inspection-agent/target/
+/inspection-application/target/
+/application/target/
+.idea
+*.iml
